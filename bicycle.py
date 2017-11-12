@@ -75,4 +75,3 @@ class Bike:
 		IAxx = self.IHxx + self.IFxx + \
 		       np.dot(x_masses_f, (z_coords_f - zA) ** 2)
 		IAxz = self.IHxz - np.sum()
-		1 + 2 - 3
